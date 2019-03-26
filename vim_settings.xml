@@ -27,6 +27,9 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="/a.dummy" timestamp="1553639799109">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/ryanair-test/src/test/java/hello/GreetingsControllerTest.java" timestamp="1553118820772">
         <mark key="[" line="18" column="65" />
         <mark key="]" line="18" column="71" />
@@ -133,6 +136,13 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="0" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" timestamp="1553639972250">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="50" column="23" />
+        <mark key="^" line="50" column="23" />
+        <mark key="." line="50" column="23" />
+      </file>
       <file name="$USER_HOME$/Code/ryanair-test/build.gradle" timestamp="1553037653227">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -153,6 +163,7 @@
       <jump line="44" column="0" filename="$USER_HOME$/Code/flightconnector/src/test/resources/interconnection/routes-response.json" />
       <jump line="28" column="60" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/RoutesServicesTest.java" />
       <jump line="60" column="71" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/RoutesServicesTest.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -195,7 +206,7 @@
         <text encoding="base64">QERpcnRpZXNDb250ZXh0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -213,8 +224,8 @@
       <history-cmd>
         <entry>x</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
