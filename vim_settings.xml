@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/interconnection/domain/model/Route.java" timestamp="1553645268822">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="89" />
+        <mark key="." line="13" column="89" />
+        <mark key="^" line="13" column="89" />
+      </file>
       <file name="$USER_HOME$/Code/ryanair-test/src/main/java/hello/GreentingController.java" timestamp="1553035471483">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="28" />
@@ -27,7 +33,7 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1553639799109">
+      <file name="/a.dummy" timestamp="1553640075354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ryanair-test/src/test/java/hello/GreetingsControllerTest.java" timestamp="1553118820772">
@@ -54,22 +60,27 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="17" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/interconnection/domain/model/Connection.java" timestamp="1553455626085">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="53" />
-        <mark key="^" line="6" column="53" />
-        <mark key="." line="6" column="53" />
+      <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/interconnection/domain/model/Connection.java" timestamp="1553640523111">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchService.java" timestamp="1553644077947">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/FlightconnectorApplication.java" timestamp="1553453183545">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="80" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/interconnection/domain/model/Flight.java" timestamp="1553453150730">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
+      <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/interconnection/domain/model/Flight.java" timestamp="1553640758757">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/RoutesServicesTest.java" timestamp="1553456086292">
         <mark key="'" line="48" column="71" />
@@ -90,7 +101,8 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/test/resources/routesresponse.json" timestamp="1553206817688">
+      <file name="$USER_HOME$/Code/flightconnector/src/test/resources/routesresponse.json" timestamp="1553640878919">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -123,25 +135,18 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/test/resources/interconnection/routes-response.json" timestamp="1553126592650">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="9" />
-      </file>
       <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/unit/domain/service/RoutesServicesTest.java" timestamp="1553199677833">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="0" column="56" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" timestamp="1553639972250">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="51" column="46" />
-        <mark key="]" line="50" column="23" />
-        <mark key="^" line="50" column="23" />
-        <mark key="." line="50" column="23" />
+      <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" timestamp="1553645730684">
+        <mark key="'" line="48" column="50" />
+        <mark key="[" line="84" column="59" />
+        <mark key="]" line="85" column="82" />
+        <mark key="^" line="85" column="82" />
+        <mark key="." line="85" column="82" />
       </file>
       <file name="$USER_HOME$/Code/ryanair-test/build.gradle" timestamp="1553037653227">
         <mark key="[" line="28" column="0" />
@@ -164,55 +169,59 @@
       <jump line="28" column="60" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/RoutesServicesTest.java" />
       <jump line="60" column="71" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/RoutesServicesTest.java" />
       <jump line="50" column="0" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/flightconnector/src/test/resources/routesresponse.json" />
+      <jump line="81" column="8" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" />
+      <jump line="48" column="50" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oYW1jcmVzdC5Db3JlTWF0Y2hlcnM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUeXBlUmVmZXJlbmNlXD4=</text>
+        <text encoding="base64">XDxhc3NlcnRUaGF0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIuZGlzYWJsZShEZXNlcmlhbGl6YXRpb25GZWF0dXJlLkZBSUxfT05fVU5LTk9XTl9QUk9QRVJUSUVTKTsK</text>
+      <register name="0" type="4">
+        <text>.getAll(from, to, 1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oYW1jcmVzdC5Db3JlTWF0Y2hlcnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlckFzc2VydC5hc3NlcnRUaGF0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmVhbVV0aWxzLmNvcHlUb0J5dGVBcnJheShsaXN0ZmlsZSwgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8RmxpZ2h0PiBmbGlnaHRMaXN0ID0gb2JqZWN0TWFwcGVyLnJlYWRWYWx1ZShsaXN0ZmlsZSwgTGlzdC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlZhbHVlOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5ib290LnRlc3QuY29udGV4dC5TcHJpbmdCb290VGVzdDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvcmUuaW8uUmVzb3VyY2U7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuTWVkaWFUeXBlOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50ZXN0LmFubm90YXRpb24uRGlydGllc0NvbnRleHQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3QuY29udGV4dC5BY3RpdmVQcm9maWxlczsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0LndlYi5XZWJBcHBDb25maWd1cmF0aW9uOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay51dGlsLlN0cmVhbVV0aWxzOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJ0ZXN0IikK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFdlYkFwcENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QERpcnRpZXNDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFpcnBvcnRUbzsKLy8KICAgIHB1YmxpYyBSb3V0ZShTdHJpbmcgYWlycG9ydEZyb20sIFN0cmluZyBhaXJwb3J0VG8pIHsKICAgICAgICB0aGlzLmFpcnBvcnRGcm9tID0gYWlycG9ydEZyb207CiAgICAgICAgdGhpcy5haXJwb3J0VG8gPSBhaXJwb3J0VG87CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUeXBlUmVmZXJlbmNlXD4=</last-search>
+      <last-search encoding="base64">XDxhc3NlcnRUaGF0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUeXBlUmVmZXJlbmNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NlcnRUaGF0XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -220,12 +229,13 @@
       <history-search>
         <entry encoding="base64">XDx0b1N0cmluZ1w+</entry>
         <entry encoding="base64">XDxUeXBlUmVmZXJlbmNlXD4=</entry>
+        <entry encoding="base64">XDxhc3NlcnRUaGF0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
