@@ -65,11 +65,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchService.java" timestamp="1553880715212">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="19" column="24" />
+      <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchService.java" timestamp="1553882866136">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/FlightconnectorApplication.java" timestamp="1553453183545">
         <mark key="[" line="20" column="0" />
@@ -101,11 +101,11 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/test/resources/routesresponse.json" timestamp="1553640878919">
+      <file name="$USER_HOME$/Code/flightconnector/src/test/resources/routesresponse.json" timestamp="1553882931421">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ryanair-test/src/main/java/hello/Greetings.java" timestamp="1553036664067">
         <mark key="[" line="11" column="0" />
@@ -141,12 +141,12 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" timestamp="1553645730684">
+      <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" timestamp="1553882053834">
         <mark key="'" line="48" column="50" />
-        <mark key="[" line="84" column="59" />
-        <mark key="]" line="85" column="82" />
+        <mark key="[" line="81" column="72" />
+        <mark key="]" line="81" column="72" />
         <mark key="^" line="85" column="82" />
-        <mark key="." line="85" column="82" />
+        <mark key="." line="81" column="72" />
       </file>
       <file name="$USER_HOME$/Code/ryanair-test/build.gradle" timestamp="1553037653227">
         <mark key="[" line="28" column="0" />
@@ -174,44 +174,44 @@
       <jump line="48" column="50" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new ArrayList();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB7CiAgICAiYWlycG9ydEZyb20iOiAiRFVCIiwKICAgICJhaXJwb3J0VG8iOiAiV1JPIiwKICAgICJuZXdSb3V0ZSI6IGZhbHNlLAogICAgInNlYXNvbmFsUm91dGUiOiBmYWxzZQogIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>new ArrayList();</text>
+        <text>new Route[](r)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRUaGF0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdCgpOwo=</text>
+        <text encoding="base64">ICB7CiAgICAiYWlycG9ydEZyb20iOiAiRFVCIiwKICAgICJhaXJwb3J0VG8iOiAiV1JPIiwKICAgICJuZXdSb3V0ZSI6IGZhbHNlLAogICAgInNlYXNvbmFsUm91dGUiOiBmYWxzZQogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oYW1jcmVzdC5Db3JlTWF0Y2hlcnM7Cg==</text>
+        <text encoding="base64">ICB7CiAgICAiYWlycG9ydEZyb20iOiAiRFVCIiwKICAgICJhaXJwb3J0VG8iOiAiV1JPIiwKICAgICJuZXdSb3V0ZSI6IGZhbHNlLAogICAgInNlYXNvbmFsUm91dGUiOiBmYWxzZQogIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlckFzc2VydC5hc3NlcnRUaGF0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAociAtPiByZXR1cm4gbmV3IENvbm5lY3Rpb24oKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29ubmVjdGlvbkxpc3Q7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFpcnBvcnRUbzsKLy8KICAgIHB1YmxpYyBSb3V0ZShTdHJpbmcgYWlycG9ydEZyb20sIFN0cmluZyBhaXJwb3J0VG8pIHsKICAgICAgICB0aGlzLmFpcnBvcnRGcm9tID0gYWlycG9ydEZyb207CiAgICAgICAgdGhpcy5haXJwb3J0VG8gPSBhaXJwb3J0VG87CiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oYW1jcmVzdC5Db3JlTWF0Y2hlcnM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
