@@ -141,12 +141,11 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" timestamp="1553887009050">
+      <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" timestamp="1556870880972">
         <mark key="'" line="48" column="50" />
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="84" column="45" />
-        <mark key="^" line="84" column="45" />
-        <mark key="." line="84" column="45" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ryanair-test/build.gradle" timestamp="1553037653227">
         <mark key="[" line="28" column="0" />
@@ -154,7 +153,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1553210138909">
+      <file name="/fragment.java" timestamp="1556870864054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -174,8 +173,8 @@
       <jump line="48" column="50" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>equal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE5LTA1LTAzICAK</text>
       </register>
       <register name="-" type="4">
         <text>equal</text>
@@ -187,31 +186,31 @@
         <text>getConnectedRoutesTo(r, to, allRoutes)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVsYXRlZHJvdXRlcy5pc0VtcHR5KCkgPyBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSA6IAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE5LTA1LTAzICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVsYXRlZHJvdXRlcy5pc0VtcHR5KCkgPyBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSA6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVsYXRlZHJvdXRlcy5pc0VtcHR5KCkgPyBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSA6IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxSb3V0ZT4gZ2V0UmVsYXRlZFJvdXRlc1RvKFN0cmluZyB0bywgamF2YS51dGlsLkxpc3Q8Um91dGU+IGFsbFJvdXRlcykgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxSb3V0ZT4gZ2V0UmVsYXRlZFJvdXRlc1RvKFN0cmluZyB0bywgamF2YS51dGlsLkxpc3Q8Um91dGU+IGFsbFJvdXRlcykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMua2tra2tra2tra2trayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
