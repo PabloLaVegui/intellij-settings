@@ -9,11 +9,11 @@
         <mark key="." line="13" column="89" />
         <mark key="^" line="13" column="89" />
       </file>
-      <file name="$USER_HOME$/Code/flightinterconnection/src/main/java/com/pablolavegui/flightinterconnection/domain/infrastructure/RouteProvider.java" timestamp="1556897081388">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="4" />
+      <file name="$USER_HOME$/Code/flightinterconnection/src/main/java/com/pablolavegui/flightinterconnection/domain/infrastructure/RouteProvider.java" timestamp="1556901129850">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/Code/ryanair-test/src/main/java/hello/GreentingController.java" timestamp="1553035471483">
         <mark key="[" line="16" column="19" />
@@ -53,10 +53,10 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/flightinterconnection/src/main/java/com/pablolavegui/flightinterconnection/domain/model/Route.java" timestamp="1556896597252">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/flightinterconnection/src/main/java/com/pablolavegui/flightinterconnection/domain/model/Route.java" timestamp="1556901646110">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/domain/service/ConnectionSearchServicesTest.java" timestamp="1556898419466">
         <mark key="[" line="25" column="0" />
@@ -99,6 +99,11 @@
         <mark key="." line="33" column="29" />
         <mark key="^" line="33" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/flightinterconnection/src/main/java/com/pablolavegui/flightinterconnection/FlightinterconnectionApplication.java" timestamp="1556901152739">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/flightconnector/src/main/java/com/pablolavegui/flightconnector/FlightconnectorApplication.java" timestamp="1556874008574">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -118,7 +123,7 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1556872505808">
+      <file name="/HTML File.txt.ft" timestamp="1556900863509">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1556872514520">
@@ -136,22 +141,16 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/flightinterconnection/src/main/java/com/pablolavegui/flightinterconnection/domain/service/ConnectionSearchService.java" timestamp="1556898795470">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Code/flightinterconnection/src/main/java/com/pablolavegui/flightinterconnection/domain/service/ConnectionSearchService.java" timestamp="1556900997371">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Code/flightconnector/src/test/resources/oner.json" timestamp="1553206910077">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/test/resources/routesresponse.json" timestamp="1553882931421">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ryanair-test/src/main/java/hello/Greetings.java" timestamp="1553036664067">
         <mark key="[" line="11" column="0" />
@@ -191,24 +190,18 @@
         <mark key="^" line="16" column="49" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/flightinterconnection/src/test/java/com/pablolavegui/flightinterconnection/domain/service/ConnectionSearchServiceTest.java" timestamp="1556898556600">
-        <mark key="'" line="15" column="38" />
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="11" />
+      <file name="$USER_HOME$/Code/flightinterconnection/src/test/java/com/pablolavegui/flightinterconnection/domain/service/ConnectionSearchServiceTest.java" timestamp="1556902091769">
+        <mark key="'" line="40" column="3" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="53" column="7" />
       </file>
       <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/unit/domain/service/RoutesServicesTest.java" timestamp="1553199677833">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="0" column="56" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="0" column="56" />
-      </file>
-      <file name="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" timestamp="1556870880972">
-        <mark key="'" line="48" column="50" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Code/ryanair-test/build.gradle" timestamp="1553037653227">
         <mark key="[" line="28" column="0" />
@@ -235,46 +228,47 @@
       <jump line="82" column="0" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" />
       <jump line="48" column="50" filename="$USER_HOME$/Code/flightconnector/src/test/java/com/pablolavegui/flightconnector/interconnection/domain/service/ConnectionSearchServicesTest.java" />
       <jump line="13" column="38" filename="$USER_HOME$/Code/flightinterconnection/src/test/java/com/pablolavegui/flightinterconnection/domain/service/ConnectionSearchServiceTest.java" />
+      <jump line="37" column="3" filename="$USER_HOME$/Code/flightinterconnection/src/test/java/com/pablolavegui/flightinterconnection/domain/service/ConnectionSearchServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>Collections.emptyList()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRUaGF0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0UnVubmVyLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCwgSXNFbXB0eUNvbGxlY3Rpb24uZW1wdHkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBhaXJwb3J0RnJvbTsKICAgIHByaXZhdGUgU3RyaW5nIGFpcnBvcnRUbzsKCiAgICBwdWJsaWMgUm91dGUoU3RyaW5nIGFpcnBvcnRGcm9tLCBTdHJpbmcgYWlycG9ydFRvKSB7CiAgICAgICAgdGhpcy5haXJwb3J0RnJvbSA9IGFpcnBvcnRGcm9tOwogICAgICAgIHRoaXMuYWlycG9ydFRvID0gYWlycG9ydFRvOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWlycG9ydEZyb20oKSB7CiAgICAgICAgcmV0dXJuIGFpcnBvcnRGcm9tOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWlycG9ydFRvKCkgewogICAgICAgIHJldHVybiBhaXJwb3J0VG87CiAgICB9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb25uZWN0aW9uU2VhcmNoU2VydmljZShSb3V0ZVByb3ZpZGVyIHJvdXRlUHJvdmlkZXIpIHsKICAgICAgICB0aGlzLnJvdXRlUHJvdmlkZXIgPSByb3V0ZVByb3ZpZGVyOwogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYWJsb2xhdmVndWkuZmxpZ2h0aW50ZXJjb25uZWN0aW9uLmRvbWFpbi5tb2RlbC5Sb3V0ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcm91dGVQcm92aWRlci5maW5kQWxsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFJvdXRlPiBtaWVyZGEgPSBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmZpZ3VyYXRpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oYW1jcmVzdC5NYXRjaGVyQXNzZXJ0Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -297,6 +291,7 @@
         <entry>x</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
